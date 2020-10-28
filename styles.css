@@ -1,0 +1,28 @@
+
+
+.removeMargin {
+    margin: 0;
+    background-color: red;
+}
+
+.headingCenter {
+    text-align: center;
+}
+
+.expenseInput {
+    margin: 0;
+    padding: 0;
+}
+
+
+.listItem {
+    background: rgb(52,58,64);
+}
+
+.expensItem {
+    font-size: 1.2rem;
+}
+
+.dateCustom {
+    font-size: 0.7rem;
+}
